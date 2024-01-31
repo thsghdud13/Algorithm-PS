@@ -1,2 +1,2 @@
 # Algorithm-PS
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+푼 문제 저장소 입니다
